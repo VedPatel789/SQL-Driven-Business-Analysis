@@ -22,7 +22,6 @@ It simulates real-world business analysis by processing customer, order, and rev
 - src/ → application logic
 - assets/ → UI branding
 - screenshots/ → output previews
-- docs/ → documentation & reports
 
 ---
 
@@ -39,7 +38,6 @@ It simulates real-world business analysis by processing customer, order, and rev
 - HTML, CSS, JavaScript
 - SQL.js (SQLite in browser)
 - Chart.js (visualization)
-- GitHub Pages (deployment)
 
 ---
 
